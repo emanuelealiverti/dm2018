@@ -4,11 +4,12 @@ Materiali per le lezioni "Introduzione all'analisi di dati di rete" ed "Analisi 
 
 
 ``` bash
+|-- GDP.txt
 |-- README.md
-`-- war_net.RData
+`-- war.txt
 ```
 
-`war_net.RData` é stato ottenuto processando il dataset `coldwar` del pacchetto [amen](https://cran.r-project.org/web/packages/amen/index.html)
+`war.txt` e `GDP.txt` sono stati ottenuti processando il dataset `coldwar` del pacchetto [amen](https://cran.r-project.org/web/packages/amen/index.html)
 
 ## en
 Material and slides for the lecture "Introduction to network data" (Introduzione all'analisi dei dati di rete)
